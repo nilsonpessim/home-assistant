@@ -2,7 +2,7 @@
 
 # :rocket: Home Assistant - TechLabs
 
-* [Instalação Proxmox](#INSTALL-PROMXOX.md)
+* [Instalação Proxmox](INSTALL-PROMXOX.md)
 
 ## :wrench: Instalação Home Assistant
 
