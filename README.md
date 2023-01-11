@@ -3,6 +3,8 @@
 # :rocket: Home Assistant - TechLabs
 
 * [Instalação Proxmox](https://github.com/nilsonpessim/home-assistant/wiki/Instala%C3%A7%C3%A3o-no-Proxmox)
+* [Lista de ADD-ONS](https://github.com/nilsonpessim/home-assistant/wiki/Lista-de-Add-ons)
+* [Instalação HACS](https://github.com/nilsonpessim/home-assistant/wiki/Instala%C3%A7%C3%A3o-HACS)
 
 ## :wrench: Instalação Home Assistant
 
