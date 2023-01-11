@@ -2,11 +2,13 @@
 
 # :rocket: Home Assistant - TechLabs
 
-* [Instalação Proxmox](INSTALL-PROXMOX.md)
+* [Instalação Proxmox](https://github.com/nilsonpessim/home-assistant/wiki/Instala%C3%A7%C3%A3o-no-Proxmox)
 
 ## :wrench: Instalação Home Assistant
 
-![img_0.png](assets/img_0.png)
+![img_0.png](assets/home.png)
+
+---
 
 ## :sparkling_heart: Nos Ajude a Crescer
 >Se este Material foi útil para você, ajude se inscrevendo no meu canal do YouTube.
